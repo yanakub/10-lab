@@ -1,0 +1,21 @@
+.cards {
+ 
+   min-height: 100vh;
+   flex-wrap: wrap;
+}
+.cards {
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+ 
+  flex: 0 0 250px;
+  background-color: DimGray; 
+}
+
+.cards {
+ 
+  align-items: center; 
+  justify-content: center;
+}

@@ -1,0 +1,44 @@
+body {
+ 
+  display: flex;
+ 
+}
+
+body {
+ 
+ flex-direction: column;
+}
+
+header, footer {
+ 
+  height: 20vh;
+  background-color: DarkGrey;
+}
+
+main {
+ 
+  display: flex;
+}
+
+
+main {
+ 
+  height: calc(80vh - 40vh);
+ 
+}
+
+nav, aside {
+ 
+  width: 20vw;
+  background-color: DimGray;
+}
+
+article {
+
+   flex: 1;
+}
+
+nav {
+ 
+  order: -1;
+}

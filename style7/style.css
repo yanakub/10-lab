@@ -1,0 +1,27 @@
+.media {
+ 
+   display: flex;
+}
+
+.media-body {
+ 
+   flex: 1;
+}
+
+.media {
+ 
+  align-items: flex-start;
+  background-color: DarkGray; 
+}
+
+.media-object {
+ 
+   width: 20vw; 
+   height: 12vw;
+}
+
+.media-object1 {
+ 
+   width: 20vw; 
+   height: 12vw;
+}

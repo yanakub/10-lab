@@ -1,0 +1,18 @@
+body {
+ 
+  display: flex;
+}
+
+aside {
+ 
+   width: 20vw; 
+   height: 80vw;
+   background-color: DimGray;
+}
+
+main {
+ 
+  flex: 1;
+  height: 80vw;
+  background-color: DarkGray;
+}
